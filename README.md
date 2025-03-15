@@ -7,7 +7,7 @@
 
 ## Project Description
 
-A 32-bit Arithmetic Logic Unit (ALU) that supports MIPS 32-bit ISA.
+   A 32-bit Arithmetic Logic Unit (ALU) that supports MIPS 32-bit ISA.
 
 ### Basic Functions:
 
