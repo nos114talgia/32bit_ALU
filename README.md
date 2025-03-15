@@ -4,6 +4,7 @@
 
 - **Design Language**: Verilog Hardware Description Language (HDL)
 - **Simulation Environment**: Vivado 2024.1
+- **Test Environment: LS-CPU-EXB-002 Experimental Box, equipped with Xilinx Artix-7 xc7a200tfbg676-2**
 
 ## Project Description
 
